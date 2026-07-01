@@ -1,7 +1,6 @@
 package com.cognizant.mockito;
 
 import static org.mockito.Mockito.*;
-
 import org.junit.jupiter.api.Test;
 
 public class MyServiceTest {
