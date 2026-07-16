@@ -1,8 +1,8 @@
-\# Spring REST using Spring Boot 3
+# Spring REST using Spring Boot 3
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,15 +14,15 @@ It demonstrates the fundamentals of developing RESTful Web Services using \*\*Sp
 
 
 
-\---
+---
 
 
 
-\## Exercises Completed
+## Exercises Completed
 
 
 
-\### Exercise 1 – Spring REST Basics
+### Exercise 1 – Spring REST Basics
 
 
 
@@ -34,15 +34,15 @@ Implemented a simple RESTful Web Service using Spring Boot.
 
 
 
-\- Spring Boot project setup
+- Spring Boot project setup
 
-\- REST Controller
+- REST Controller
 
-\- `@GetMapping`
+- `@GetMapping`
 
-\- Running Spring Boot applications
+- Running Spring Boot applications
 
-\- Testing REST APIs
+- Testing REST APIs
 
 
 
@@ -70,11 +70,11 @@ Hello World!!
 
 
 
-\---
+---
 
 
 
-\### Exercise 2 – Spring REST Handson
+### Exercise 2 – Spring REST Handson
 
 
 
@@ -82,7 +82,7 @@ Implemented REST APIs that return country information.
 
 
 
-\#### 1. Get All Countries
+#### 1. Get All Countries
 
 
 
@@ -102,9 +102,9 @@ GET /countries
 
 
 
-```json
 
-\[
+
+[
 
 &#x20; {
 
@@ -132,11 +132,11 @@ GET /countries
 
 ]
 
-```
 
 
 
-\#### 2. Get Country by Country Code
+
+#### 2. Get Country by Country Code
 
 
 
@@ -168,7 +168,7 @@ GET /countries/IN
 
 
 
-```json
+```
 
 {
 
@@ -182,11 +182,11 @@ GET /countries/IN
 
 
 
-\---
+---
 
 
 
-\## Folder Structure
+## Folder Structure
 
 
 
@@ -222,59 +222,59 @@ Spring REST using SpringBoot-3
 
 
 
-\---
+---
 
 
 
-\## Technologies Used
+## Technologies Used
 
 
 
-\- Java 17
+- Java 17
 
-\- Spring Boot 3
+- Spring Boot 3
 
-\- Spring Web
+- Spring Web
 
-\- Maven
+- Maven
 
-\- Eclipse IDE
+- Eclipse IDE
 
-\- Postman
-
-
-
-\---
+- Postman
 
 
 
-\## Learning Outcomes
+---
 
 
 
-\- Spring Boot project creation
-
-\- Building RESTful Web Services
-
-\- REST Controllers
-
-\- `@GetMapping`
-
-\- Returning JSON responses
-
-\- Using Path Variables
-
-\- Reading XML data
-
-\- Testing REST APIs using Browser and Postman
+## Learning Outcomes
 
 
 
-\---
+- Spring Boot project creation
+
+- Building RESTful Web Services
+
+- REST Controllers
+
+- `@GetMapping`
+
+- Returning JSON responses
+
+- Using Path Variables
+
+- Reading XML data
+
+- Testing REST APIs using Browser and Postman
 
 
 
-\## Status
+---
+
+
+
+## Status
 
 
 
