@@ -1,127 +1,179 @@
-# Cognizant Digital Nurture 5.0 - Java FSE Deep Skilling
+# Cognizant Digital Nurture 5.0 – Java FSE Deep Skilling
 
-This repository contains my solutions for the mandatory hands-on exercises completed as part of the Cognizant Digital Nurture 5.0 Java FSE Deep Skilling Program.
-
----
-
-# Progress
-
-| Week | Topics | Status |
-|------|--------|--------|
-| Week 1 | Design Patterns, DSA, PL/SQL, TDD, Mockito, SLF4J | ✅ Completed |
-| Week 2 | Spring Core, Maven, Spring Data JPA, Spring Boot, Hibernate | ✅ Completed |
-| Week 3 | Spring REST using Spring Boot 3 | ⏳ Upcoming |
-| Week 4 | Code Quality, SonarQube, Microservices, Spring Cloud | ⏳ Upcoming |
-| Week 5 | Angular / React | ⏳ Upcoming |
-| Week 6 | Angular / React, Git, CI/CD | ⏳ Upcoming |
-| Week 7 | DevOps, Docker, Cloud, GenAI Fundamentals | ⏳ Upcoming |
+![Java](https://img.shields.io/badge/Java-22-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-brightgreen)
+![Spring Security](https://img.shields.io/badge/Spring_Security-Enabled-success)
+![Maven](https://img.shields.io/badge/Maven-Build-red)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![Status](https://img.shields.io/badge/Progress-Ongoing-blue)
 
 ---
 
-# Repository Structure
+# 📖 Overview
+
+This repository contains my solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE) Deep Skilling Program**.
+
+The repository includes mandatory hands-on exercises covering Java programming, Design Patterns, Data Structures & Algorithms, PL/SQL, Unit Testing, Spring Framework, Spring Boot, Spring REST APIs, Spring Security, and JWT Authentication.
+
+---
+
+# 🎯 Objectives
+
+- Strengthen Core Java concepts
+- Learn Design Patterns
+- Practice Data Structures & Algorithms
+- Develop PL/SQL programs
+- Perform Unit Testing using JUnit & Mockito
+- Build applications using Spring Framework
+- Develop RESTful APIs using Spring Boot
+- Implement Spring Security
+- Generate JWT Tokens for Authentication
+- Maintain code using Git & GitHub
+
+---
+
+# 📂 Repository Structure
 
 ```
-cognizant-deep-skilling-java-fse/
+cognizant-deep-skilling-java-fse
 │
-├── Week-1/
-│   ├── Data-Structure-Algorithms/
-│   ├── Design-Patterns/
-│   ├── Logging-SLF4J/
-│   ├── PL-SQL-Programming/
-│   ├── TDD-using-JUNIT/
-│   └── TDD-using-Mockito/
+├── Week-1
+│   ├── Design Patterns
+│   ├── Data Structures and Algorithms
+│   ├── PL-SQL Programming
+│   ├── JUnit
+│   ├── Mockito
+│   ├── SLF4J Logging Framework
+│   └── README.md
 │
-├── Week-2/
-│   ├── Spring-Core-Maven/
-│   │      ├── Exercise-1 Basic Spring Application/
-│   │      ├── Exercise-2 Dependency Injection/
-│   │      └── Exercise-4 Creating & Configuring Maven Project/
-│   │
-│   └── Spring Data JPA with Spring Boot, Hibernate/
-│          └── orm-learn/
+├── Week-2
+│   ├── Spring Core
+│   ├── Spring Data JPA
+│   └── README.md
 │
-├── Week-3/
-├── Week-4/
-├── Week-5/
-├── Week-6/
-├── Week-7/
+├── Week-3
+│   ├── Spring REST using SpringBoot-3
+│   └── README.md
 │
-├── .gitignore
 └── README.md
 ```
 
 ---
 
-# Week 1 - Completed
+# 📅 Progress Tracker
 
-## Topics Covered
-
-- Design Patterns and Principles
-- Data Structures and Algorithms
-- PL/SQL Programming
-- Test-Driven Development using JUnit
-- Unit Testing and Mocking using Mockito
-- Logging using SLF4J
-
----
-
-# Week 2 - Completed
-
-## Spring Core & Maven
-
-### ✔ Exercise 1 – Basic Spring Application
-
-- Created a basic Spring project using Maven.
-- Configured beans using XML.
-- Loaded Spring Application Context.
-- Retrieved beans from the IoC Container.
-
-### ✔ Exercise 2 – Dependency Injection
-
-- Implemented Setter-based Dependency Injection.
-- Injected Repository into Service Bean.
-- Verified Dependency Injection using Spring IoC Container.
-
-### ✔ Exercise 4 – Creating & Configuring Maven Project
-
-- Created Maven Project.
-- Added Spring Framework dependencies.
-- Configured Maven Build.
-- Verified project build successfully.
+| Week | Module | Status |
+|------|--------|:------:|
+| Week 1 | Design Patterns | ✅ |
+| Week 1 | Data Structures & Algorithms | ✅ |
+| Week 1 | PL/SQL Programming | ✅ |
+| Week 1 | JUnit | ✅ |
+| Week 1 | Mockito | ✅ |
+| Week 1 | SLF4J Logging | ✅ |
+| Week 2 | Spring Core | ✅ |
+| Week 2 | Spring Data JPA | ✅ |
+| Week 3 | Spring REST Basics | ✅ |
+| Week 3 | Spring REST Handson | ✅ |
+| Week 3 | JWT Authentication | ✅ |
+| Week 4 | To be Updated | ⏳ |
+| Week 5 | To be Updated | ⏳ |
 
 ---
 
-## Spring Data JPA with Spring Boot & Hibernate
-
-### ✔ Exercise 1 – Spring Data JPA Quick Example
-
-- Created Spring Boot Project.
-- Configured MySQL Database.
-- Created Entity Class.
-- Created Repository Interface.
-- Used Spring Data JPA Repository.
-- Retrieved records from database using JPA.
-
----
-
-# Technologies and Tools
+# 🛠 Technologies Used
 
 - Java
 - Spring Framework
 - Spring Boot
 - Spring Data JPA
-- Hibernate
+- Spring Security
+- JWT (JJWT)
 - Maven
-- MySQL
+- Oracle SQL / PL-SQL
 - JUnit 5
 - Mockito
 - SLF4J
-- Logback
+- Eclipse IDE
+- Postman
+- Git & GitHub
+
+---
+
+# 📚 Topics Covered
+
+### Week 1
+- Singleton Pattern
+- Factory Pattern
+- Search Algorithms
+- Financial Forecasting
+- PL/SQL Programming
+- Stored Procedures
+- Unit Testing with JUnit
+- Mocking with Mockito
+- Logging using SLF4J
+
+### Week 2
+- Spring Core
+- Dependency Injection
+- Spring Bean Configuration
+- Spring Data JPA
+- Repository Pattern
+
+### Week 3
+- Spring REST APIs
+- REST Controllers
+- JSON Response Handling
+- Path Variables
+- Spring Security
+- Basic Authentication
+- JWT Authentication
+- REST API Testing using Postman
+
+---
+
+# 🚀 Tools & Software
+
+- Eclipse IDE
+- Maven
+- Oracle SQL Developer
+- Postman
 - Git
 - GitHub
 
 ---
 
-# Weekly Progress
+# 🎓 Learning Outcomes
 
-This repository will be updated week by week as the mandatory hands-on exercises are completed.
+After completing this program, I gained hands-on experience in:
+
+- Object-Oriented Programming using Java
+- Design Patterns
+- Data Structures & Algorithms
+- Database Programming with PL/SQL
+- Unit Testing
+- Spring Framework
+- Spring Boot Development
+- REST API Development
+- Spring Security
+- JWT-based Authentication
+- Version Control using Git & GitHub
+
+---
+
+# 📈 Repository Status
+
+| Weeks Completed | Progress |
+|----------------:|:--------:|
+| 3 / Total Course Weeks | 🚀 In Progress |
+
+---
+
+# 🤝 Acknowledgement
+
+This repository is maintained as part of the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE) Deep Skilling Program** to document my learning journey and hands-on practice.
+
+---
+
+# ⭐ Support
+
+If you found this repository helpful, consider giving it a **⭐ Star** on GitHub.
