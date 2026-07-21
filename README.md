@@ -4,9 +4,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-JWT-success)
 ![Microservices](https://img.shields.io/badge/Microservices-Completed-blue)
+![React](https://img.shields.io/badge/ReactJS-Completed-61DAFB)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-![Status](https://img.shields.io/badge/Progress-Week_4_Completed-success)
+![Status](https://img.shields.io/badge/Progress-Week_5_Completed-success)
 
 ---
 
@@ -14,7 +15,7 @@
 
 This repository contains my hands-on solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE) Deep Skilling Program**.
 
-The repository includes mandatory exercises covering Java fundamentals, Design Patterns, Data Structures & Algorithms, PL/SQL, Unit Testing, Spring Framework, Spring Boot, REST APIs, Spring Security, JWT Authentication, and Microservices.
+The repository includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Unit Testing, Spring Framework, Spring Boot, REST APIs, Spring Security, JWT Authentication, Microservices, and ReactJS.
 
 ---
 
@@ -29,6 +30,7 @@ The repository includes mandatory exercises covering Java fundamentals, Design P
 - Develop RESTful APIs using Spring Boot
 - Implement Spring Security & JWT Authentication
 - Develop independent Microservices
+- Build interactive user interfaces using ReactJS
 - Manage projects using Git & GitHub
 
 ---
@@ -53,13 +55,30 @@ cognizant-deep-skilling-java-fse
 │   └── README.md
 │
 ├── Week-3
-│   ├── Spring REST using SpringBoot-3
+│   ├── Spring REST using Spring Boot
+│   ├── Spring Security
+│   ├── JWT Authentication
 │   └── README.md
 │
 ├── Week-4
 │   ├── Microservices
 │   │   ├── account
 │   │   ├── loan
+│   │   └── README.md
+│   └── README.md
+│
+├── Week-5
+│   ├── ReactJS
+│   │   ├── Exercise-1
+│   │   ├── Exercise-2
+│   │   ├── Exercise-3
+│   │   ├── Exercise-4
+│   │   ├── Exercise-5
+│   │   ├── Exercise-9
+│   │   ├── Exercise-10
+│   │   ├── Exercise-11
+│   │   ├── Exercise-12
+│   │   ├── Exercise-13
 │   │   └── README.md
 │   └── README.md
 │
@@ -85,7 +104,7 @@ cognizant-deep-skilling-java-fse
 | Week 3 | JWT Authentication | ✅ |
 | Week 4 | Account Microservice | ✅ |
 | Week 4 | Loan Microservice | ✅ |
-| Week 5 | Upcoming Modules | ⏳ |
+| Week 5 | ReactJS | ✅ |
 
 ---
 
@@ -99,12 +118,20 @@ cognizant-deep-skilling-java-fse
 - Spring Security
 - JWT (JJWT)
 - Microservices
+- ReactJS
+- JavaScript (ES6)
+- JSX
+- HTML5
+- CSS3
+- Node.js
+- npm
 - Maven
 - Oracle SQL / PL-SQL
 - JUnit 5
 - Mockito
 - SLF4J
 - Eclipse IDE
+- Visual Studio Code
 - Postman
 - Git & GitHub
 
@@ -113,6 +140,7 @@ cognizant-deep-skilling-java-fse
 # 📚 Topics Covered
 
 ## ✅ Week 1
+
 - Singleton Pattern
 - Factory Pattern
 - Search Algorithms
@@ -124,6 +152,7 @@ cognizant-deep-skilling-java-fse
 - SLF4J Logging
 
 ## ✅ Week 2
+
 - Spring Core
 - Dependency Injection
 - Bean Configuration
@@ -131,6 +160,7 @@ cognizant-deep-skilling-java-fse
 - Repository Pattern
 
 ## ✅ Week 3
+
 - Spring REST APIs
 - REST Controllers
 - JSON Response Handling
@@ -141,6 +171,7 @@ cognizant-deep-skilling-java-fse
 - Postman Testing
 
 ## ✅ Week 4
+
 - Introduction to Microservices
 - Account Microservice
 - Loan Microservice
@@ -148,14 +179,33 @@ cognizant-deep-skilling-java-fse
 - RESTful Microservice Development
 - Running Multiple Services on Different Ports
 
+## ✅ Week 5
+
+- React Project Setup
+- Functional Components
+- JSX
+- Props
+- State Management
+- Lifecycle Methods
+- CSS Modules
+- ES6 Features
+- Event Handling
+- Conditional Rendering
+- Lists & Keys
+- React `map()` Function
+- Component-Based Architecture
+
 ---
 
 # 🚀 Tools & Software
 
 - Eclipse IDE
+- Visual Studio Code
 - Maven
 - Oracle SQL Developer
 - Postman
+- Node.js
+- npm
 - Git
 - GitHub
 
@@ -169,13 +219,19 @@ Through this program, I gained practical experience in:
 - Design Patterns
 - Data Structures & Algorithms
 - PL/SQL Programming
-- Unit Testing
+- Unit Testing with JUnit & Mockito
 - Spring Framework
 - Spring Boot Development
 - REST API Development
 - Spring Security
 - JWT Authentication
 - Microservices Architecture
+- React Fundamentals
+- Component-Based Development
+- State & Props Management
+- Event Handling
+- Conditional Rendering
+- Rendering Lists using `map()` and Keys
 - Version Control using Git & GitHub
 
 ---
@@ -188,6 +244,7 @@ Through this program, I gained practical experience in:
 | Week 2 | ✅ Completed |
 | Week 3 | ✅ Completed |
 | Week 4 | ✅ Completed |
+| Week 5 | ✅ Completed |
 | Remaining Modules | 🚀 In Progress |
 
 ---
