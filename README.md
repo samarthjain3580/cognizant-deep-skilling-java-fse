@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/ReactJS-Completed-61DAFB)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-![Status](https://img.shields.io/badge/Progress-Week_5_Completed-success)
+![Status](https://img.shields.io/badge/Progress-Week_6_Completed-success)
 
 ---
 
@@ -15,7 +15,7 @@
 
 This repository contains my hands-on solutions for the **Cognizant Digital Nurture 5.0 – Java Full Stack Engineer (FSE) Deep Skilling Program**.
 
-The repository includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Unit Testing, Spring Framework, Spring Boot, REST APIs, Spring Security, JWT Authentication, Microservices, and ReactJS.
+The repository includes mandatory hands-on exercises covering Design Patterns, Data Structures & Algorithms, PL/SQL, Unit Testing, Spring Framework, Spring Boot, REST APIs, Spring Security, JWT Authentication, Microservices, ReactJS, and Git Version Control.
 
 ---
 
@@ -31,7 +31,7 @@ The repository includes mandatory hands-on exercises covering Design Patterns, D
 - Implement Spring Security & JWT Authentication
 - Develop independent Microservices
 - Build interactive user interfaces using ReactJS
-- Manage projects using Git & GitHub
+- Learn Git Version Control and GitLab collaboration
 
 ---
 
@@ -78,7 +78,16 @@ cognizant-deep-skilling-java-fse
 │   │   ├── Exercise-10
 │   │   ├── Exercise-11
 │   │   ├── Exercise-12
-│   │   ├── Exercise-13
+│   │   └── README.md
+│   └── README.md
+│
+├── Week-6
+│   ├── Git
+│   │   ├── Exercise-1
+│   │   ├── Exercise-2
+│   │   ├── Exercise-3
+│   │   ├── Exercise-4
+│   │   ├── Exercise-5
 │   │   └── README.md
 │   └── README.md
 │
@@ -105,6 +114,7 @@ cognizant-deep-skilling-java-fse
 | Week 4 | Account Microservice | ✅ |
 | Week 4 | Loan Microservice | ✅ |
 | Week 5 | ReactJS | ✅ |
+| Week 6 | Git Version Control | ✅ |
 
 ---
 
@@ -133,7 +143,9 @@ cognizant-deep-skilling-java-fse
 - Eclipse IDE
 - Visual Studio Code
 - Postman
-- Git & GitHub
+- Git
+- GitHub
+- GitLab
 
 ---
 
@@ -195,6 +207,20 @@ cognizant-deep-skilling-java-fse
 - React `map()` Function
 - Component-Based Architecture
 
+## ✅ Week 6
+
+- Git Installation & Configuration
+- Local Repository Initialization
+- GitLab Repository Setup
+- Staging & Commit
+- Git Ignore (`.gitignore`)
+- Branch Creation
+- Branch Comparison
+- Branch Merging
+- Merge Conflict Resolution
+- Pull & Push Operations
+- Repository Synchronization
+
 ---
 
 # 🚀 Tools & Software
@@ -208,6 +234,7 @@ cognizant-deep-skilling-java-fse
 - npm
 - Git
 - GitHub
+- GitLab
 
 ---
 
@@ -232,7 +259,11 @@ Through this program, I gained practical experience in:
 - Event Handling
 - Conditional Rendering
 - Rendering Lists using `map()` and Keys
-- Version Control using Git & GitHub
+- Git Version Control
+- GitLab Repository Management
+- Branching & Merging
+- Merge Conflict Resolution
+- Remote Repository Synchronization
 
 ---
 
@@ -245,7 +276,7 @@ Through this program, I gained practical experience in:
 | Week 3 | ✅ Completed |
 | Week 4 | ✅ Completed |
 | Week 5 | ✅ Completed |
-| Remaining Modules | 🚀 In Progress |
+| Week 6 | ✅ Completed |
 
 ---
 
